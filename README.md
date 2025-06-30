@@ -1,3 +1,5 @@
+Face Recognition using PCA, LDA, and MLP Classifier
+
 This project implements a face recognition pipeline that:
 Extracts features from grayscale face images using Principal Component Analysis (PCA) (Eigenfaces)
 Applies Linear Discriminant Analysis (LDA) for dimensionality reduction
