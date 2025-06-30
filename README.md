@@ -6,7 +6,7 @@ Applies Linear Discriminant Analysis (LDA) for dimensionality reduction
 Classifies faces using a Multi-Layer Perceptron (MLP) classifier
 
 📂 Project Structure
-.
+
 ├── dataset/
 │   └── faces/
 │       ├── person1/
@@ -26,8 +26,8 @@ scikit-learn
 Matplotlib
 
 Install dependencies:
-
 pip install numpy opencv-python scikit-learn matplotlib
+
 🚀 How to Run
 Prepare the dataset
 
